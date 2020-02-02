@@ -1,1 +1,1 @@
-web: bin/news-demo -apikey $NEWS_API_KEY
+web: bin/guesser-news -apikey $NEWS_API_KEY
