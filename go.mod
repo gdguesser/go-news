@@ -1,3 +1,3 @@
-module github.com/gdguesser/guesser-new
+module github.com/gdguesser/guesser-news
 
 go 1.13.7
